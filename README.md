@@ -1,13 +1,4 @@
-## The End
-
-6 years after the creation of rbxfpsunlocker, [Roblox has added](https://devforum.roblox.com/t/introducing-the-maximum-framerate-setting/2995965) a `Maximum Frame Rate` setting to the in-game menu. [🎉🎉🎉](https://media.tenor.com/g16jQZqbvWoAAAAC/yippee-happy.gif)!
-
-For those interested in other Roblox engine tweaks (e.g. "alt-enter fix", small FPS caps), check out [Bloxstrap](https://github.com/pizzaboxer/bloxstrap). For those interested in experimenting with framerates higher than 240, refer to the [latest build](https://github.com/axstin/rbxfpsunlocker/releases/tag/v5.2) of RFU, which still allows for this **in Roblox Studio** as of 06/21/2024.
-
-Thanks for using rbxfpsunlocker!
-
-\- Austin
-
+## About 
 ## Usage
 1. Download the latest release from https://github.com/axstin/rbxfpsunlocker/releases
 2. Extract `rbxfpsunlocker-x64.zip` into a folder
